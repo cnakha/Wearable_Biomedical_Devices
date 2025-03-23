@@ -1,12 +1,15 @@
 # Team Members:
 Kegan Jones, Rohan Kakarlapudi, Sufyan Siddiqui, Cindy Nakhammouane
 
+
 # Wearable_Biomedical_Devices
 Projects from BME/CS 479 - Wearables and Nearables Technology Laboratory
+
 
 # Catalog Course Description and Prerequisite/Corequisite Statement: 
 Practical experience designing and developing wearable and nearable devices. Acquisition and processing of sensor data. Design and development
 of user-friendly interfaces.
+
 
 # Course Objectives: The course is intended to provide students with an understanding of:
 + Wearable and nearable devices
@@ -14,6 +17,7 @@ of user-friendly interfaces.
 rehabilitation devices.
 + User Interface design for wearable technology
 + Internet of Things
+
 
 # Class Projects:
 + SparkBeat - Smart Heartrate and Blood Oxygenation Wristband
@@ -25,3 +29,8 @@ rehabilitation devices.
 + Wearables for Motion and Gait Analysis
   + Force sensors and accelerometers
 + Dehydration Detector
+
+
+# Acknowledgments
+- This project was developed using insights and code suggestions from [ChatGPT by OpenAI](https://openai.com/chatgpt).
+- Portions of the code are adapted from the official Arduino starter code available at [Arduino Project Hub](https://www.arduino.cc/en/Tutorial/HomePage) or other relevant sources.
