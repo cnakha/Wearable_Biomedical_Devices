@@ -45,7 +45,7 @@ Here is how the application looks as well as the circuit diagram and packaging:<
 
 
 ## TikTok Tattoo - Interactive Tattoos – Smart Tattoo Lab
-Description: This project uses the MPR 121 Breakout Board to create a Smart Tattoo that would allow us to control external devices like the TikTok Web with a simple
+Description: WIP - This project uses the MPR 121 Breakout Board to create a Smart Tattoo that would allow us to control external devices like the TikTok Web with a simple
 swipe on your skin.
   + Capacitive Sensing
 
